@@ -1,0 +1,14 @@
+body {
+    background-color: #A6E3E9;
+}
+
+.dec {
+    text-align: center;
+    font-size: 25px;
+    font-weight: bolder;
+    color: #FF5D5D;
+}
+
+.btn {
+    margin: 1% 52%;
+}
